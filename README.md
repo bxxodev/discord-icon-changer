@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/github/stars/bxxodev/discord-icon-changer">
    <img src="https://img.shields.io/github/forks/bxxodev/discord-icon-changer">
    <br>
-   <img src="https://img.shields.io/github/last-commit/bxxodev/discord-icon-changert">
+   <img src="https://img.shields.io/github/last-commit/bxxodev/discord-icon-changer">
    <img src="https://img.shields.io/github/license/bxxodev/discord-icon-changer">
    <br>
    <img src="https://img.shields.io/github/issues/bxxodev/discord-icon-changer">
